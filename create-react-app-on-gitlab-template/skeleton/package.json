@@ -1,9 +1,9 @@
 {
   "name": "${{values.component_id}}",
   "new": "${{values.component_id}}",
-  "version": "0.2.0",
-  "added": "new",
+  "version": "0.3.0",
   "private": true,
+  "up": "33",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
@@ -14,7 +14,7 @@
     "@types/react-dom": "^17.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "4.0.4",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
