@@ -12,3 +12,4 @@ spec:
   type: website
   lifecycle: experimental
   owner: ${{values.owner | dump}}
+  scaffoldedFrom: create-react-app-on-github-template
