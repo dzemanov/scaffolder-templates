@@ -1,4 +1,4 @@
-## ${{ values.name }}
+## General information
 
 ${{ values.description }}
 
